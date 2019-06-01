@@ -14,6 +14,12 @@ public class Test {
 		System.out.println("test");
 		System.out.println("you");
         
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> branch 'master' of https://github.com/asdsunny/test.git
     }
 
 }
