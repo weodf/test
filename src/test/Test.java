@@ -13,6 +13,7 @@ public class Test {
 		System.out.println("zuo");
 		System.out.println("test");
 		System.out.println("you");
+		int i=1;
         
 
 
